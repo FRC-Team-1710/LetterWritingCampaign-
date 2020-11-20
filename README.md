@@ -1,2 +1,2 @@
 # LetterWritingCampaign-
-<p> submit your letter writing campaign initial paragraph as a branchand create a pull request for github practice!
+<p>Hello, this is Andrew. I have joined my high school's (Olathe Northwest) robotics team, which is called FRC Team 1710. On the team, we design, build, and program a robot which takes part in a competition. My job on the team is to help program the robot. Of course, all of the materials and software the team requires is quite costly. This is why we have a group of people that manage our teams finances. To help them out, I am writing this email to inform you how you can support me and my team. Please read below for more information.</p>
